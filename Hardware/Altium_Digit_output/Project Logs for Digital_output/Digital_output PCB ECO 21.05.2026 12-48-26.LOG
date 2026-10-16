@@ -1,0 +1,3 @@
+Change Component Footprint: Designator=VT2 Old Footprint=DPAK New Footprint=SOT-23-3
+Change Component Comment : Designator=VT2 Old Comment=VT MOSFET-N New Comment=SI2308BDS-T1-GE3
+Added Room: Name=Digital_output

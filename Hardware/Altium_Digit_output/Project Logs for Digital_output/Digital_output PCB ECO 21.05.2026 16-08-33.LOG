@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=12Â Pin=XS1-1
+Removed Pin From Net: NetName=24Â Pin=XS1-5
+Removed Member From Class: ClassName=Power Member=24Â
+Added Pin To Net: NetName=24Â Pin=XS1-1
+Added Pin To Net: NetName=12Â Pin=XS1-5
+Added Room: Name=Digital_output

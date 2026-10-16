@@ -1,0 +1,65 @@
+Added Component: Designator=DD1(SOT-23-5)
+Added Component: Designator=R1(RES 0.125  L 2.5)
+Added Component: Designator=R2(RES 0.125  L 2.5)
+Added Component: Designator=R3(RES 0.125  L 2.5)
+Added Component: Designator=R4(RES 0.125  L 2.5)
+Added Component: Designator=R5(Res_2512 3D)
+Added Component: Designator=VD?(SOD-323)
+Added Component: Designator=VT1(SOT-363)
+Added Component: Designator=VT2(DPAK)
+Added Component: Designator=XS1(Degson_DG301-5.0-04P-1X)
+Added Component: Designator=XS2(Degson_DG301-5.0-02P-1X)
+Added Pin To Net: NetName=GND Pin=DD1-2
+Added Pin To Net: NetName=GND Pin=DD1-4
+Added Pin To Net: NetName=GND Pin=R2-2
+Added Pin To Net: NetName=GND Pin=VT1-1
+Added Pin To Net: NetName=GND Pin=VT2-3
+Added Pin To Net: NetName=GND Pin=XS1-2
+Added Pin To Net: NetName=GND Pin=XS2-2
+Added Pin To Net: NetName=12Â Pin=DD1-1
+Added Pin To Net: NetName=12Â Pin=R4-1
+Added Pin To Net: NetName=12Â Pin=VD?-1
+Added Pin To Net: NetName=12Â Pin=VT1-4
+Added Pin To Net: NetName=12Â Pin=XS1-1
+Added Net: Name=12Â
+Added Pin To Net: NetName=EN_1k Pin=R1-1
+Added Pin To Net: NetName=EN_1k Pin=XS1-3
+Added Net: Name=EN_1k
+Added Pin To Net: NetName=IN Pin=DD1-3
+Added Pin To Net: NetName=IN Pin=XS1-4
+Added Net: Name=IN
+Added Pin To Net: NetName=NetDD1_5 Pin=DD1-5
+Added Pin To Net: NetName=NetDD1_5 Pin=VT2-1
+Added Net: Name=NetDD1_5
+Added Pin To Net: NetName=NetR1_2 Pin=R1-2
+Added Pin To Net: NetName=NetR1_2 Pin=R2-1
+Added Pin To Net: NetName=NetR1_2 Pin=VT1-2
+Added Net: Name=NetR1_2
+Added Pin To Net: NetName=NetR3_1 Pin=R3-1
+Added Pin To Net: NetName=NetR3_1 Pin=VT1-6
+Added Net: Name=NetR3_1
+Added Pin To Net: NetName=NetR3_2 Pin=R3-2
+Added Pin To Net: NetName=NetR3_2 Pin=R4-2
+Added Pin To Net: NetName=NetR3_2 Pin=VD?-2
+Added Pin To Net: NetName=NetR3_2 Pin=VT1-5
+Added Net: Name=NetR3_2
+Added Pin To Net: NetName=NetR5_2 Pin=R5-2
+Added Pin To Net: NetName=NetR5_2 Pin=VT1-3
+Added Net: Name=NetR5_2
+Added Pin To Net: NetName=OUT Pin=R5-1
+Added Pin To Net: NetName=OUT Pin=VT2-2
+Added Pin To Net: NetName=OUT Pin=XS2-1
+Added Net: Name=OUT
+Added Member To Class: ClassName=Digital_output Member=Component DD1 UCC27517
+Added Member To Class: ClassName=Digital_output Member=Component R1 200
+Added Member To Class: ClassName=Digital_output Member=Component R2 3k
+Added Member To Class: ClassName=Digital_output Member=Component R3 3k
+Added Member To Class: ClassName=Digital_output Member=Component R4 3k
+Added Member To Class: ClassName=Digital_output Member=Component R5 1k
+Added Member To Class: ClassName=Digital_output Member=Component VD? BZT52C10S
+Added Member To Class: ClassName=Digital_output Member=Component VT1 LBSS8402DW1T1G
+Added Member To Class: ClassName=Digital_output Member=Component VT2 VT MOSFET-N
+Added Member To Class: ClassName=Digital_output Member=Component XS1 KF-301-4P
+Added Member To Class: ClassName=Digital_output Member=Component XS2 KF-301-2P
+Added Room: Name=Digital_output
+Added Rule: Name=Schematic Supply Nets_1

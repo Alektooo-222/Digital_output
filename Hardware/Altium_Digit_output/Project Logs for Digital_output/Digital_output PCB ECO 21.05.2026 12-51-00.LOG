@@ -1,0 +1,4 @@
+Change Component Footprint: Designator=XS? Old Footprint=Degson_DG301-5.0-05P-1X New Footprint=Degson_DG301-5.0-06P-1X
+Change Component Comment : Designator=XS? Old Comment=KF-301-5P New Comment=KF-301-6P
+Added Pin To Net: NetName=GND Pin=XS?-6
+Added Room: Name=Digital_output

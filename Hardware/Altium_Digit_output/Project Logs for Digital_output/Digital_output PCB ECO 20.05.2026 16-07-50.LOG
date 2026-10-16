@@ -1,0 +1,5 @@
+Change Component Footprint: Designator=R1 Old Footprint=RES 0.125  L 2.5 New Footprint=Res_0603 3D
+Change Component Footprint: Designator=R2 Old Footprint=RES 0.125  L 2.5 New Footprint=Res_0603 3D
+Change Component Footprint: Designator=R3 Old Footprint=RES 0.125  L 2.5 New Footprint=Res_0603 3D
+Change Component Footprint: Designator=R4 Old Footprint=RES 0.125  L 2.5 New Footprint=Res_0603 3D
+Added Room: Name=Digital_output

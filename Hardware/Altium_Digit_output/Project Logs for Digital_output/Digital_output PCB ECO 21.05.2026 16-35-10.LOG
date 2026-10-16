@@ -1,0 +1,8 @@
+Removed Pin From Net: NetName=IN Pin=XS1-3
+Removed Pin From Net: NetName=GND Pin=XS1-4
+Removed Pin From Net: NetName=12Â Pin=XS1-5
+Added Pin To Net: NetName=12Â Pin=XS1-3
+Added Pin To Net: NetName=IN Pin=XS1-4
+Added Pin To Net: NetName=GND Pin=XS1-5
+Added Member To Class: ClassName=Digital_output Member=Component R2 3k
+Added Room: Name=Digital_output

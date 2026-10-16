@@ -1,0 +1,19 @@
+Removed Pin From Net: NetName=12Â Pin=DD1-1
+Removed Pin From Net: NetName=12Â Pin=XS1-1
+Removed Pin From Net: NetName=GND Pin=XS1-2
+Removed Pin From Net: NetName=EN_1k Pin=XS1-3
+Removed Pin From Net: NetName=IN Pin=XS1-4
+Removed Member From Class: ClassName=Digital_output Member=XS1
+Change Component Designator: OldDesignator=VD? NewDesignator=VD1
+Added Component: Designator=XS?(Degson_DG301-5.0-05P-1X)
+Added Pin To Net: NetName=GND Pin=XS?-2
+Added Pin To Net: NetName=EN_1k Pin=XS?-3
+Added Pin To Net: NetName=IN Pin=XS?-4
+Added Pin To Net: NetName=12Â Pin=XS?-5
+Change Net Name : Old Net Name=12Â New Net Name=24Â
+Added Pin To Net: NetName=12Â Pin=DD1-1
+Added Pin To Net: NetName=12Â Pin=XS?-1
+Added Net: Name=12Â
+Added Member To Class: ClassName=Digital_output Member=Component XS? KF-301-5P
+Added Room: Name=Digital_output
+Added Rule: Name=Schematic Supply Nets_2

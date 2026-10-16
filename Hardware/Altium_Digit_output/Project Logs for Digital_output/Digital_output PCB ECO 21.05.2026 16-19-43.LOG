@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=GND Pin=XS1-2
+Removed Pin From Net: NetName=EN_1k Pin=XS1-3
+Added Pin To Net: NetName=EN_1k Pin=XS1-2
+Added Pin To Net: NetName=GND Pin=XS1-3
+Added Room: Name=Digital_output

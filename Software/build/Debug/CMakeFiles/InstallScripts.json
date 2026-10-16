@@ -1,0 +1,14 @@
+{
+	"InstallScripts" : 
+	[
+		"C:/GitHub/Digital_output/Software/build/Debug/cmake_install.cmake",
+		"C:/GitHub/Digital_output/Software/build/Debug/FreeRTOS-Kernel/cmake_install.cmake",
+		"C:/GitHub/Digital_output/Software/build/Debug/FreeRTOS-Kernel/include/cmake_install.cmake",
+		"C:/GitHub/Digital_output/Software/build/Debug/FreeRTOS-Kernel/portable/cmake_install.cmake",
+		"C:/GitHub/Digital_output/Software/build/Debug/Shared/swoTrace/cmake_install.cmake",
+		"C:/GitHub/Digital_output/Software/build/Debug/Shared/dwt/cmake_install.cmake",
+		"C:/GitHub/Digital_output/Software/build/Debug/Shared/etl/cmake_install.cmake",
+		"C:/GitHub/Digital_output/Software/build/Debug/cmake/stm32cubemx/cmake_install.cmake"
+	],
+	"Parallel" : false
+}

@@ -1,0 +1,229 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"childIndexes" : 
+					[
+						1,
+						4,
+						5,
+						6,
+						7
+					],
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.22"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						1
+					]
+				},
+				{
+					"build" : "FreeRTOS-Kernel",
+					"childIndexes" : 
+					[
+						2,
+						3
+					],
+					"jsonFile" : "directory-FreeRTOS-Kernel-Debug-c1ab0becfa2145196601.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.15"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "Shared/FreeRTOS-Kernel",
+					"targetIndexes" : 
+					[
+						3
+					]
+				},
+				{
+					"build" : "FreeRTOS-Kernel/include",
+					"jsonFile" : "directory-FreeRTOS-Kernel.include-Debug-9d3256c0e7420888a486.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.15"
+					},
+					"parentIndex" : 1,
+					"projectIndex" : 0,
+					"source" : "Shared/FreeRTOS-Kernel/include"
+				},
+				{
+					"build" : "FreeRTOS-Kernel/portable",
+					"jsonFile" : "directory-FreeRTOS-Kernel.portable-Debug-b9cbf593cf0ac81d9f63.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.15"
+					},
+					"parentIndex" : 1,
+					"projectIndex" : 0,
+					"source" : "Shared/FreeRTOS-Kernel/portable",
+					"targetIndexes" : 
+					[
+						4
+					]
+				},
+				{
+					"build" : "Shared/swoTrace",
+					"jsonFile" : "directory-Shared.swoTrace-Debug-45838467f1ba2ee3bc64.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.22"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 1,
+					"source" : "Shared/swoTrace"
+				},
+				{
+					"build" : "Shared/dwt",
+					"jsonFile" : "directory-Shared.dwt-Debug-c8f214dd8665f4186c4c.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.22"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 2,
+					"source" : "Shared/dwt"
+				},
+				{
+					"build" : "Shared/etl",
+					"jsonFile" : "directory-Shared.etl-Debug-59b669b4ab1a3b74cfbb.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.10"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 3,
+					"source" : "Shared/etl"
+				},
+				{
+					"build" : "cmake/stm32cubemx",
+					"jsonFile" : "directory-cmake.stm32cubemx-Debug-a874d3cc84b5982fda2e.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.22"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "cmake/stm32cubemx",
+					"targetIndexes" : 
+					[
+						0,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"childIndexes" : 
+					[
+						1,
+						2,
+						3
+					],
+					"directoryIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						7
+					],
+					"name" : "Test_digit_output",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						4
+					],
+					"name" : "swoTrace",
+					"parentIndex" : 0
+				},
+				{
+					"directoryIndexes" : 
+					[
+						5
+					],
+					"name" : "dwt",
+					"parentIndex" : 0
+				},
+				{
+					"directoryIndexes" : 
+					[
+						6
+					],
+					"name" : "etl",
+					"parentIndex" : 0
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 7,
+					"id" : "STM32_Drivers::@768a070a0fe75716b479",
+					"jsonFile" : "target-STM32_Drivers-Debug-f2a2b4310270bd081763.json",
+					"name" : "STM32_Drivers",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Test_digit_output::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Test_digit_output-Debug-385e02a54f6106de99c1.json",
+					"name" : "Test_digit_output",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 7,
+					"id" : "USB_Device_Library::@768a070a0fe75716b479",
+					"jsonFile" : "target-USB_Device_Library-Debug-99376759e025a2000ed2.json",
+					"name" : "USB_Device_Library",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "freertos_kernel::@8d1fe2b5824bfeb7a79b",
+					"jsonFile" : "target-freertos_kernel-Debug-3e0afd3bdde92b0395d9.json",
+					"name" : "freertos_kernel",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 3,
+					"id" : "freertos_kernel_port::@3b750e658ec9e84f3050",
+					"jsonFile" : "target-freertos_kernel_port-Debug-a1dab18edce37d1e86a7.json",
+					"name" : "freertos_kernel_port",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/GitHub/Digital_output/Software/build/Debug",
+		"source" : "C:/GitHub/Digital_output/Software"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 8
+	}
+}

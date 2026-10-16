@@ -1,0 +1,11 @@
+Change Component Footprint: Designator=TP1 Old Footprint=Test_Point_2mm New Footprint=Test_Point_1mm
+Change Component Footprint: Designator=TP2 Old Footprint=Test_Point_2mm New Footprint=Test_Point_1mm
+Change Component Footprint: Designator=TP3 Old Footprint=Test_Point_2mm New Footprint=Test_Point_1mm
+Change Component Footprint: Designator=TP4 Old Footprint=Test_Point_2mm New Footprint=Test_Point_1mm
+Change Component Footprint: Designator=TP5 Old Footprint=Test_Point_2mm New Footprint=Test_Point_1mm
+Change Component Footprint: Designator=TP6 Old Footprint=Test_Point_2mm New Footprint=Test_Point_1mm
+Change Component Footprint: Designator=TP7 Old Footprint=Test_Point_2mm New Footprint=Test_Point_1mm
+Change Component Footprint: Designator=TP8 Old Footprint=Test_Point_2mm New Footprint=Test_Point_1mm
+Change Component Footprint: Designator=TP? Old Footprint=Test_Point_2mm New Footprint=Test_Point_1mm
+Change Component Designator: OldDesignator=TP? NewDesignator=TP9
+Added Room: Name=Digit_output_Ext

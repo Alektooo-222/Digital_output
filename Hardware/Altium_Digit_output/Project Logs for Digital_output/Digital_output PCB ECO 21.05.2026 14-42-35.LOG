@@ -1,0 +1,9 @@
+Added Component: Designator=R6(Res_0603 3D)
+Added Pin To Net: NetName=NetDD1_5 Pin=DD1-5
+Added Pin To Net: NetName=NetDD1_5 Pin=R6-1
+Added Net: Name=NetDD1_5
+Added Pin To Net: NetName=NetR6_2 Pin=R6-2
+Added Pin To Net: NetName=NetR6_2 Pin=VT2-1
+Added Net: Name=NetR6_2
+Added Member To Class: ClassName=Digital_output Member=Component R6 100
+Added Room: Name=Digital_output

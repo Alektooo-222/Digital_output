@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=-12Â Pin=XS1-1
+Removed Pin From Net: NetName=EN_NV Pin=XS1-3
+Added Pin To Net: NetName=EN_NV Pin=XS1-1
+Added Pin To Net: NetName=-12Â Pin=XS1-3
+Added Room: Name=Digit_output_Ext
